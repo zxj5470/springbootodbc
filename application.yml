@@ -1,0 +1,12 @@
+server:
+  port: 8081
+  context-path: /v1
+
+ice:
+  Name: Boy♂Next♂Door23333Door23333222222
+
+ojdbc:
+  connectString: jdbc:oracle:thin:@wwwwwwwwwwwwwURL:port:xe
+  username: yourDBUserName
+  password: yourDBPassword
+
